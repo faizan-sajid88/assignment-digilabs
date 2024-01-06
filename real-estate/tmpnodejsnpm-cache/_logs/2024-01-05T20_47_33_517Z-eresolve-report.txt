@@ -1,0 +1,18 @@
+'Log files:
+C:\Users\fsaji\OneDrive\Desktop\assignment-digilabs\real-estate\tmpnodejsnpm-cache\_logs\2024-01-05T20_47_33_517Z-debug-0.log
+
+# npm resolution error report
+
+While resolving: real-estate@0.1.0
+Found: react@18.2.0
+node_modules/react
+  react@"^18.2.0" from the root project
+
+Could not resolve dependency:
+peer react@"^15.0.0 || ^16.0.0" from react-location-picker@1.5.0
+node_modules/react-location-picker
+  react-location-picker@"*" from the root project
+
+Fix the upstream dependency conflict, or retry
+this command with --force or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.
